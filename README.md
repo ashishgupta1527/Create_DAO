@@ -1,4 +1,4 @@
-## OPHacks - DAOConnect 🚀
+## OPHacks - Create_DAO 🚀
 
 ## Introduction :fire:
 Our project aims to transform the landscape of decentralized autonomous organizations (DAOs) by offering a user-friendly infrastructure. We streamline the creation, management, and governance of DAOs, reducing technical barriers. With transparent tokenomics, efficient governance tools, and seamless integration with the current infrastructure, we empower communities to participate effortlessly in decentralized decision-making processes.
@@ -25,7 +25,7 @@ Our project aims to transform the landscape of decentralized autonomous organiza
 2. Clone the repo.
    
 ```
-https://github.com/MukulKolpe/OPHacks
+gh repo clone ashishgupta1527/Create_DAO
 ```
 3. Open in VS code or your preferred code editor.
 ```
